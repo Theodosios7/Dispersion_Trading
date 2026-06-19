@@ -18,7 +18,7 @@ correlation — and if so, can you make money trading it with cash equities?**
 
 Two-part result:
 
-1. **The signal works.** When the rolling average pairwise correlation is unusually
+1. **The signal predicts direction, but direction is mechanical and doesn't monetize.**                                                                               When the rolling average pairwise correlation is unusually
    low (z < −1) it tends to rise, and when unusually high (z > +1) it tends to fall.
    On non-overlapping monthly samples the z-score predicts the direction of the next
    ~21-day correlation move **83–92% of the time**, symmetric across both regimes and
