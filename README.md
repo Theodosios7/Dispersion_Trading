@@ -40,7 +40,7 @@ doesn't monetize. The full discussion is in the writeup PDF.
 |------|------------|
 | `Dispersion_Strategy.py` | Signal construction + signal-validity test (the hit-rate study) |
 | `Backtest_Strategy.py`   | Pure-pandas P&L backtest (equity curve, drawdown, metrics) |
-| `dispersion_writeup.pdf` | Full writeup: theory, results, limitations |
+| `Dispersion_Trading.pdf` | Full writeup: theory, results, limitations |
 | `requirements.txt`       | Dependencies |
 
 ## Running it
